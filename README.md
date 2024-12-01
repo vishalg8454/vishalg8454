@@ -8,6 +8,7 @@ I am fascinated by the world of web development and find it increasingly captiva
 2. [Social Media](https://stalk-me.netlify.app/): Social Media inspired by Twitter. Tech stack used - React, Tailwind CSS, Redux, React Router
 3. [Component Library](https://component-vishalg8454.netlify.app/): Component library having more than 12 components. Built entirely using HTML, CSS and Vanilla JS. Pure Basics.
 4. [DNS Resolver NodeJS](https://github.com/vishalg8454/DNS-Resolver-Nodejs/tree/master): DNS Resolver written in NodeJS. No external lirary is used.
+5. [JSON Parser Python](https://github.com/vishalg8454/json-parser): JSON parser written in Python. No external lirary is used.
 
 ### Stats
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalg8454)](https://github.com/anuraghazra/github-readme-stats)
